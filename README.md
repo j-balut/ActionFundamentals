@@ -1,5 +1,3 @@
-# Added with [skip ci]
-# Added this line
 # GitHub Actions Fundamentals
 
 Repo for the `GitHub Actions Fundamentals` training.
